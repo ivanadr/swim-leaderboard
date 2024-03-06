@@ -1,3 +1,17 @@
+# About
+NYUAD Swim Challenge was a week-long community challenge at NYU Abu Dhabi (NYUAD) prompting individuals as well as teams to swim as much as they could in a week. First Swim Challenge took place in February 2021. After much success, the second event happened in April 2021. 
+
+- Organized the largest community swim event in university history
+- Implemented daily leaderboard in Python Pandas in the second event (resulted in 190% distance swam in the second event)  
+- Collected data in Google forms (QR code scan) and analyzed data in Python Pandas (Google Colab)
+- Published a team and individual leaderboard daily on GitHub Pages
+- Focus on data privacy and responsibility within the project (e.g. nickname option)
+- Created community of 80+ swim enthusiasts
+- Collaborated with the Athletics Department to get prizes for the winning teams and individuals (e.g. most swam, most improved) 
+
+Project Purpose Statement:
+To use the power of data to increase the physical activity levels of the community at New York University Abu Dhabi by motivating students to swim and lessen the negative impacts of prolonged sedentary behavior exacerbated by the online mode of instruction during the Covid-19 pandemic.
+
 # NYUAD Swim Challenge Leaderboard  
 April 5 - 11, 2021  
 
